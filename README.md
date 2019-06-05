@@ -35,3 +35,5 @@
 # living in a nice dorm, and 4 days weekends.
 
 # what did you like about your AFSC in the Air Force?
+
+#Sitting down in a nice air conditioned room all day.
