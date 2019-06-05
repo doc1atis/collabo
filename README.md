@@ -27,3 +27,7 @@
 # breaking Bad
 
 # what is your favorite book?
+
+#The Great Gatsby
+
+#What was your favorite part of the Air Force?
