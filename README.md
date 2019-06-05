@@ -19,3 +19,7 @@
 # Haiti
 
 #who is your favorite basketball player?
+
+#Damian Lillard
+
+#What is your favorite TV show or movie?
