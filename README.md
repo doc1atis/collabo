@@ -11,3 +11,7 @@
 #I like kendrick lamar, hip hop.
 
 #how many programming languages do you know so far?
+
+#html and CSS
+
+#Where did you grow up?
