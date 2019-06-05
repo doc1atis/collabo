@@ -31,3 +31,7 @@
 #The Great Gatsby
 
 #What was your favorite part of the Air Force?
+
+# living in a nice dorm, and 4 days weekends.
+
+# what did you like about your AFSC in the Air Force?
