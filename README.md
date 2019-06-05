@@ -15,3 +15,7 @@
 #html and CSS
 
 #Where did you grow up?
+
+# Haiti
+
+#who is your favorite basketball player?
